@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\array task2\array task2\bin\Debug\array task2.exe.config
+C:\Users\rayar\source\repos\array task2\array task2\bin\Debug\array task2.exe
+C:\Users\rayar\source\repos\array task2\array task2\bin\Debug\array task2.pdb
+C:\Users\rayar\source\repos\array task2\array task2\obj\Debug\array task2.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\array task2\array task2\obj\Debug\array task2.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\array task2\array task2\obj\Debug\array task2.exe
+C:\Users\rayar\source\repos\array task2\array task2\obj\Debug\array task2.pdb

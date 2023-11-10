@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\ARRAY-task(3-4-5)\ARRAY-task(3-4-5)\bin\Debug\ARRAY-task(3-4-5).exe.config
+C:\Users\rayar\source\repos\ARRAY-task(3-4-5)\ARRAY-task(3-4-5)\bin\Debug\ARRAY-task(3-4-5).exe
+C:\Users\rayar\source\repos\ARRAY-task(3-4-5)\ARRAY-task(3-4-5)\bin\Debug\ARRAY-task(3-4-5).pdb
+C:\Users\rayar\source\repos\ARRAY-task(3-4-5)\ARRAY-task(3-4-5)\obj\Debug\ARRAY-task(3-4-5).csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\ARRAY-task(3-4-5)\ARRAY-task(3-4-5)\obj\Debug\ARRAY-task(3-4-5).csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\ARRAY-task(3-4-5)\ARRAY-task(3-4-5)\obj\Debug\ARRAY-task(3-4-5).exe
+C:\Users\rayar\source\repos\ARRAY-task(3-4-5)\ARRAY-task(3-4-5)\obj\Debug\ARRAY-task(3-4-5).pdb

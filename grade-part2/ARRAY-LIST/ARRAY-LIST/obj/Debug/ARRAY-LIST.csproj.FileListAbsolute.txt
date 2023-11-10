@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\ARRAY-LIST\ARRAY-LIST\obj\Debug\ARRAY-LIST.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\ARRAY-LIST\ARRAY-LIST\obj\Debug\ARRAY-LIST.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\ARRAY-LIST\ARRAY-LIST\bin\Debug\ARRAY-LIST.exe.config
+C:\Users\rayar\source\repos\ARRAY-LIST\ARRAY-LIST\bin\Debug\ARRAY-LIST.exe
+C:\Users\rayar\source\repos\ARRAY-LIST\ARRAY-LIST\bin\Debug\ARRAY-LIST.pdb
+C:\Users\rayar\source\repos\ARRAY-LIST\ARRAY-LIST\obj\Debug\ARRAY-LIST.exe
+C:\Users\rayar\source\repos\ARRAY-LIST\ARRAY-LIST\obj\Debug\ARRAY-LIST.pdb
